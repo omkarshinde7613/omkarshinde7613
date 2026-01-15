@@ -1,4 +1,4 @@
-# Hi, I’m Omkar (aka RIPPP5STAR)
+# Hi, I’m Omkar (RIPSTAR)
 
 AIML student interested in software development and machine learning.  
 I enjoy learning by building projects and improving my fundamentals.
